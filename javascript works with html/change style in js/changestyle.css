@@ -1,0 +1,15 @@
+.closed{
+	display: none;
+}
+.open{
+	display: block;
+}
+button{
+	width: 150px;
+	background-color: #00ccee;
+}
+#demo{
+	background-color: #FF0000;
+	padding: 3px;
+	width: 500px;
+}
